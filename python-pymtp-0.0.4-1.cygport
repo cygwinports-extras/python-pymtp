@@ -1,0 +1,7 @@
+ORIG_PN="pymtp"
+inherit distutils
+
+DESCRIPTION="Python libmtp bindings"
+HOMEPAGE="http://nick125.com/projects/pymtp.html"
+SRC_URI="http://downloads.nick125.com/projects/pymtp/${ORIG_PN}-${PV}.tar.bz2"
+PATCH_URI="0.0.4-ctypes.patch"
