@@ -1,5 +1,5 @@
 category: Audio Python
-requires: python libmtp8
+requires: python libmtp-devel
 sdesc: "Python libmtp bindings"
 ldesc: "PyMTP is a Pythonic binding to LibMTP that allows Python 
 programs to interact with LibMTP-supported devices."
